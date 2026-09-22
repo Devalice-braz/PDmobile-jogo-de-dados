@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Jogo de Dados",
+    "slug": "jogo-de-dados",
+    "owner": "alicebrzs-team",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1E1B2E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1E1B2E"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f793b5d0-c487-4fa5-b510-85f2afac197c"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f793b5d0-c487-4fa5-b510-85f2afac197c"
+    }
+  }
+}
